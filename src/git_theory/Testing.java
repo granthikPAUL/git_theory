@@ -7,5 +7,9 @@ public class Testing {
 		System.out.println("hi printing");
 
 	}
+	private void sysout2() {
+		
+
+	}
 }
 
