@@ -6,5 +6,9 @@ public class Testing {
 		
 
 	}
+	private void sysout2() {
+		
+
+	}
 }
 
